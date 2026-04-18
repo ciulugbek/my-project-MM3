@@ -1,1 +1,2 @@
 "Salom dunyo" 
+"login bilan kirish" 
